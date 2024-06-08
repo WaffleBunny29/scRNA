@@ -1,3 +1,3 @@
 # scRNA
 
-Working on populating with project soon! :D
+Working on populating with the project soon! :D
